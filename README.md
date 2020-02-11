@@ -14,7 +14,9 @@ The Sierpiński sieve is a fractal described by Sierpiński in 1915. Sierpinski 
 1. define 3 points on the plane to be vertices of a triangle, call them points A, B, & C
 2. choose a starting point anywhere on the plane (the image)
 3. choose at random either point A, B, or C and then move halfway towards that point
-4. Repeat steps 2 and 3 until you get tired of it
+4. Repeat step 3 until you get tired of it
+
+The following of the steps, like those above, to fill-in points in a fractal is called a "[https://en.wikipedia.org/wiki/Chaos_game](Chaos Game)".
 
 [Here is the program to produce the images](Sierpinski_triangle.py). As is, it shows every 10th generated image. You can change this as you like. You can also write the images to file instead of viewing them.
 
