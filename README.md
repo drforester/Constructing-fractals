@@ -19,6 +19,6 @@ The Sierpiński sieve is a fractal described by Sierpiński in 1915. Sierpinski 
 The following of the steps, like those above, to fill-in points in a fractal is called a [chaos game](https://en.wikipedia.org/wiki/Chaos_game
 ).
 
-[Here is the program to produce the images](Sierpinski_triangle.py). As is, it shows every 10th generated image. You can change this as you like. You can also write the images to file instead of viewing them.
+[Here is the program to produce the images](Sierpinski_triangle.py). The displays every 10th generated image; you can change the relevant line to show every Nth image, where N is any positive integer you choose. You can also write the images to files instead of viewing them.
 
 #### next one in progress ...  
